@@ -1,0 +1,10 @@
+Automatización con n8n o Telegram:
+
+Evento que activa la automatización:
+Cuando una nueva causa es registrada en la plataforma.
+
+Mensaje enviado:
+"Se ha creado una nueva causa en la plataforma Petición en 3 Clics. Puedes ingresar para conocer más información y participar."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar datos personales sensibles como números de identificación, teléfonos, direcciones, contraseñas o información privada de los usuarios.
